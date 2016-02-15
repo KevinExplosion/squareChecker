@@ -1,15 +1,16 @@
-# Word Puzzle
+# SquarePusher
 
-#### A website that creates de-voweled words.
+#### A website very loosely dedicated to the British bassist and electronic music composer...it only checks squares. It doesn't push them.
 
-#### By Tyler Suderman & Abby Rolling
+#### By Tyler Suderman & Kevin Mattison
 
 ## Description
 
-This website accepts a user input and returns the input with vowels replaced with "-". The aim of the build was to show proficiency in BDD in Java as well as other fundamentals learned in week one of Epicodus Java course.
+Squre/Rectangle checker (practice work from Monday)
 
 ## Known Bugs
 
+None; it's f**king flawless, dude.
 
 ## Technologies Used
 
@@ -25,4 +26,4 @@ This website accepts a user input and returns the input with vowels replaced wit
 
 Licensed under the GPL.
 
-Copyright (c) 2016 **Tyler Suderman**
+Copyright (c) 2016 **Tyler Suderman / Kevin Mattison**
